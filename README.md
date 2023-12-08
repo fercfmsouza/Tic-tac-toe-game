@@ -11,5 +11,5 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
 
 ## Demo
 
-![Demo one ](./image-1.png)
-![Demo two](./image-2.png)
+![Demo one ](./public/image-1.png)
+![Demo two](./public/image-2.png)
