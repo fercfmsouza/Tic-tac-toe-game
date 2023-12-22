@@ -9,6 +9,13 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
 - Clear indication of the game winner or a draw
 - Reset button to start a new game
 
+  
+## Deployment
+
+Deployed with Github Pages.
+
+_Link:_ [https://fercfmsouza.github.io/Tic-tac-toe-game/]
+
 ## Demo
 
 ![Demo one ](./public/image-1.png)
